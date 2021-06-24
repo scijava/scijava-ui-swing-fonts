@@ -62,7 +62,7 @@
 	</issueManagement>
 	<ciManagement>
 		<system>Travis CI</system>
-		<url>https://travis-ci.com/github/scijava/scijava-ui-swing-fonts</url>
+		<url>https://travis-ci.com/scijava/scijava-ui-swing-fonts</url>
 	</ciManagement>
 
 	<properties>
