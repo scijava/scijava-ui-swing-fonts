@@ -71,6 +71,9 @@
 		<license.projectName>SciJava UI font components for Java Swing</license.projectName>
 
 		<fontchooser.version>2.4</fontchooser.version>
+
+		<!-- NB: Deploy releases to the SciJava Maven repository. -->
+		<releaseProfiles>deploy-to-scijava</releaseProfiles>
 	</properties>
 
 	<dependencies>
